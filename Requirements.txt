@@ -1,0 +1,4 @@
+praw==3.3.0
+requests==2.8.1
+simplejson==3.8.1
+yahoo-finance==1.2.1
